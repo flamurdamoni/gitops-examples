@@ -7,3 +7,6 @@ dependencies:
 - name: nginx
   version: 18.2.5
   repository: https://charts.bitnami.com/bitnami
+- name: keycloak
+    version: 16.1.2
+    repository: https://charts.bitnami.com/bitnami
