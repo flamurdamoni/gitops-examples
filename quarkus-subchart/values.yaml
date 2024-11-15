@@ -1,2 +1,4 @@
 nginx:
   replicaCount: 3
+keycloak:
+  replicaCount: 1
